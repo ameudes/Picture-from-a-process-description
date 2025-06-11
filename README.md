@@ -13,6 +13,7 @@ The project was divided into two steps: **the first step** consists in using NLP
 
 **Step 1: Processing the textual description of the process**
 The algorithm used is inspired by available works in the literature. Schematically, the implemented algorithm can be represent as follow.
+![image](https://github.com/user-attachments/assets/476c366b-27d6-4348-b03d-4a519294ff4a)
 
 Thus, to obtain the expected output at this first step, the following path must be followed:
 - Tokenization : the aim  is to transform our process description corpus into "tokens", which are assimilated here to the words in the corpus. This will allow to better understand the structure of the text and analyze it more easily.
@@ -47,4 +48,6 @@ Pour préparer le riz, il faut d'abord le rincer plusieurs fois à l'eau froide.
 Output : 
 
 ![image](https://github.com/user-attachments/assets/863a4413-bce7-4918-adda-05a5a25a6ad1)
+
+## REPOSITORY STRUCTURE
 
