@@ -38,7 +38,7 @@ Output for the example described above:
 ![image](https://github.com/user-attachments/assets/64ea79be-1f21-41d8-8c94-d89055407d8a)
 
 ## RESULTS
-A text portion was used to showcase the results as shown below: 
+A text portion was used to showcase the results as shown below. 
 
 Text :
 ```
