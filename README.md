@@ -49,5 +49,4 @@ Output :
 
 ![image](https://github.com/user-attachments/assets/863a4413-bce7-4918-adda-05a5a25a6ad1)
 
-## REPOSITORY STRUCTURE
 
